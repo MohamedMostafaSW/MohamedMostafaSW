@@ -11,6 +11,7 @@
 <h2 align="left">About me</h2>
 
 <p align="left">:sparkles: I'm working as a Software Tester<br>:books: I'm a +2 Years of Experience</p>
+<a href="mailto:mohamed.yassin7159@gmail.com">My Email</a>
 
 <h2 align="left">Language & Tools</h2>
 
