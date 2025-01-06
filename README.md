@@ -1,4 +1,7 @@
 <h1 align="left">Hey :wave: I'm Mohamed Mostafa</h1>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Software+Testing+Engineer;Certified+ISTQB;Web%26Mobile+Automation" alt="Typing SVG" /></a>
+
 <div align="center">
   <a href="https://www.linkedin.com/in/mohamed-mostafa-qa/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -46,5 +49,3 @@
 <h2 align="left">Skills</h2>
 
 <p align="left">- :computer: Data Structure<br>- :globe_with_meridians: Design Pattern<br>- :ballot_box_with_check: OOP</p>
-
-<img src="https://raw.githubusercontent.com/MohamedMostafaSW/MohamedMostafaSW/output/snake.svg" alt="Snake animation" />
